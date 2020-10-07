@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Top",
+    "value": "align-items-md-start"
+  },
+  {
+    "name": "Bottom",
+    "value": "align-items-md-end"
+  },
+  {
+    "name": "Left",
+    "value": "justify-content-md-start"
+  },
+  {
+    "name": "End",
+    "value": "justify-content-md-end"
+  },
+  {
+    "name": "Vertical Center",
+    "value": "align-items-md-center"
+  },
+  {
+    "name": "Horizontal Center",
+    "value": "justify-content-md-center"
+  },
+  {
+    "name": "Center Center",
+    "value": "align-items-md-center justify-content-md-center"
+  },
+  {
+    "name": "Around",
+    "value": "justify-content-md-around"
+  },
+  {
+    "name": "Between",
+    "value": "justify-content-md-between"
+  },
+  {
+    "name": "Stretch",
+    "value": "align-items-md-stretch"
+  },
+  {
+    "name": "Baseline",
+    "value": "align-items-md-baseline"
+  }
+]
