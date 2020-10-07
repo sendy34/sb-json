@@ -1,13 +1,46 @@
-{
-  "Top": "align-items-start",
-  "Bottom": "align-items-end",
-  "Left": "justify-content-start",
-  "End": "justify-content-end",
-  "Vertical Center": "align-items-center",
-  "Horizontal Center": "justify-content-center",
-  "Center Center": "align-items-center justify-content-center",
-  "Around": "justify-content-around",
-  "Between": "justify-content-between",
-  "Stretch": "align-items-stretch",
-  "Baseline": "align-items-baseline"
-}
+[
+  {
+    "name": "Top",
+    "value: "align-items-start"
+  },
+  {
+    "name": "Bottom",
+    "value": "align-items-end"
+  },
+  {
+    "name": "Left",
+    "value": "justify-content-start"
+  },
+  {
+    "name": "End",
+    "value": "justify-content-end"
+  },
+  {
+    "name": "Vertical Center",
+    "value": "align-items-center"
+  },
+  {
+    "name": "Horizontal Center",
+    "value": "justify-content-center"
+  },
+  {
+    "name": "Center Center",
+    "value": "align-items-center justify-content-center"
+  },
+  {
+    "name": "Around",
+    "value": "justify-content-around"
+  },
+  {
+    "name": "Between",
+    "value": "justify-content-between"
+  },
+  {
+    "name": "Stretch",
+    "value": "align-items-stretch"
+  },
+  {
+    "name": "Baseline",
+    "value": "align-items-baseline"
+  }
+]
