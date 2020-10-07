@@ -1,0 +1,13 @@
+{
+  "Top": "align-items-start",
+  "Bottom": "align-items-end",
+  "Left": "justify-content-start",
+  "End": "justify-content-end",
+  "Vertical Center": "align-items-center",
+  "Horizontal Center": "justify-content-center",
+  "Center Center": "align-items-center justify-content-center",
+  "Around": "justify-content-around",
+  "Between": "justify-content-between",
+  "Stretch": "align-items-stretch",
+  "Baseline": "align-items-baseline"
+}
